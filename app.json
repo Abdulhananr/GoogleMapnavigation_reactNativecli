@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Second",
+    "slug": "Second",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "65be7330-446c-4a16-a2e8-50b4bdb786cd"
+      }
+    }
+  }
+}
